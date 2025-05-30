@@ -34,6 +34,6 @@ Alternatively:-
 
 Clone the repo:
 
-    Clone the repo.
-    Open index.html in your browser.
+  1. Clone the repo.
+  2. Open index.html in your browser.
     (No build tools or setup required.)
