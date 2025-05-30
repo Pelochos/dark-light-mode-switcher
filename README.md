@@ -2,7 +2,7 @@
 
 This is a minimalist HTML + JavaScript project that displays a short haiku and includes a button to toggle between light and dark mode.
 
-Everything is generated dynamically using JavaScript — there is no static HTML content inside the `<body>` tag.
+Everything is generated dynamically using JavaScript: there is no static HTML content inside the `<body>` tag.
 
 ## 🚀 Features
 
@@ -22,8 +22,8 @@ Everything is generated dynamically using JavaScript — there is no static HTML
 ## 📂 File Structure
 
 dark-light-mode-switcher/<br>
-├── README.md<br>
 ├── LICENCE<br>
+├── README.md<br>
 ├── index.html<br>
 └── index.js
 
