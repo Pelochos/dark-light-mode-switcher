@@ -29,7 +29,7 @@ dark-light-mode-switcher/<br>
 
 ## 🚀 Getting Started
 
-To try it out: You can view the live version of the login page on GitHub Pages. Simply visit the link, and you’ll be able to see the page in action, including the responsive design and interactive elements.
+To try it out: You can view the live version of the login page on [GitHub Pages](https://pelochos.github.io/dark-light-mode-switcher/). Simply visit the link, and you’ll be able to see the page in action, including the responsive design and interactive elements.
 Alternatively:-
 
 Clone the repo:
